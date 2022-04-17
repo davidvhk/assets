@@ -1,0 +1,36 @@
+{
+  "name": "SolanaArtProject #0 Updated",
+  "symbol": "test_nft",
+  "description": "unhidden",
+  "image": "https://raw.githubusercontent.com/davidvhk/assets/main/upload.png", 
+  "external_url": "https://example.com",
+  "attributes": [
+    {
+      "trait_type": "trait1",
+      "value": "value1"
+    },
+    {
+      "trait_type": "trait2",
+      "value": "value2"
+    }
+  ],
+  "collection": {
+    "name": "Solflare X NFT",
+    "family": "Solflare"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DavidFpv62qdc1GYfpNReMasVTe9YW5bHJwfVKqo72u",
+        "share": 100
+      }
+    ]
+  }
+}
